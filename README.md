@@ -21,3 +21,6 @@ In draw_flower.py file :
 ## References 
 1. [Python Documentation](https://docs.python.org/3/)
 2. [Python Turtle Library](https://docs.python.org/2/library/turtle.html)
+
+## Author 
+Sneha Kale
